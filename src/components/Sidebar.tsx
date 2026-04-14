@@ -16,7 +16,7 @@ const Sidebar: React.FC = () => {
             alt="张三"
             className={styles.avatar}
           />
-          <p>张三，全栈开发工程师，热爱分享技术。拥有5年一线大厂经验，目前专注于前端工程化与性能优化。</p>
+          <p>www，恩师乌萨奇，热爱分享技术。拥有5年一线大厂经验，目前专注于前端工程化与性能优化。</p>
         </div>
       </section>
 
