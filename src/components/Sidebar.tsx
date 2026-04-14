@@ -1,8 +1,8 @@
 import React from 'react';
 import styles from './Sidebar.module.css';
-import reactSvg from '../assets/react.svg';
-import pzPng from '../assets/peizheng.png';
-import baiduPng  from '../assets/baidu.png';
+import reactSvg from '../assets/2.png';
+import pzPng from '../assets/1.png';
+import baiduPng  from '../assets/zzx.png';
 
 const Sidebar: React.FC = () => {
   return (
